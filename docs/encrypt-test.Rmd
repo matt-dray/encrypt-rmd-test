@@ -1,0 +1,13 @@
+---
+title: "encrypt-test"
+author: "Matt Dray"
+date: "03/05/2021"
+output: encryptedRmd::encrypted_html_document
+---
+
+This is a test.
+
+```{r}
+hist(beaver1$temp)
+```
+
